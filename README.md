@@ -18,9 +18,23 @@
   - Listar todos os alunos
   `http://localhost:3000/api/alunos` 
   
+   - Listar todos os bairros
+  `localhost:3000/api/enderecos`
+  
   - Listar informações de um aluno específico
   `localhost:3000/api/alunos/:id`
   
-  - 
+  - Listar informações gerais sobre os alunos
+  `localhost:3000/api/infoalunos`
+  
+  - Listar informações gerais sobre os bairros
+  `localhost:3000/api/bairro`
+  
+  - Cadastrar um aluno
+  Teste em um novo terminal:
+  `$ curl --data "name=Whisky&breed=annoying&age=3&sex=f" \`
+  `http://127.0.0.1:3000/api/puppies`
+  
+ 
 
 
