@@ -32,6 +32,7 @@
   
   - Cadastrar um aluno
   Teste em um novo terminal:
+
   `$ curl --data "name=Whisky&breed=annoying&age=3&sex=f" \`
   `http://127.0.0.1:3000/api/puppies`
   
