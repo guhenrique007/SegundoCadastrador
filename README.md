@@ -33,11 +33,11 @@
   - Cadastrar um aluno
   Teste em um novo terminal:
 
-  `$ curl --data "nome=henrique&matricula=308&nota=5.1&endereco_id=0" \`
+    `$ curl --data "nome=henrique&matricula=308&nota=5.1&endereco_id=0" \`
 
-  Verifique em:
+    Verifique em:
 
-  `http://127.0.0.1:3000/api/puppies`
+    `http://127.0.0.1:3000/api/puppies`
   
   - Cadastrar um endereco
   
