@@ -16,5 +16,11 @@
 
 6 - Test Queries
   - Listar todos os alunos
-  - `http://localhost:3030/api/alunos` 
+  `http://localhost:3000/api/alunos` 
+  
+  - Listar informações de um aluno específico
+  `localhost:3000/api/alunos/:id`
+  
+  - 
+
 
