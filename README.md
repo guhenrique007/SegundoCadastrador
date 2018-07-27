@@ -35,9 +35,17 @@
 
   `$ curl --data "nome=henrique&matricula=308&nota=5.1&endereco_id=0" \`
 
+  Verifique em:
+
   `http://127.0.0.1:3000/api/puppies`
   
   - Cadastrar um endereco
+  
+    `$ curl --data "id=54&rua=tuiuti&numero=555&bairro=tatuape" \`
+
+    Verifique em:
+    
+    `http://127.0.0.1:3000/api/puppies`
   
  
 
